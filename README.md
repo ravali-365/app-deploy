@@ -83,8 +83,12 @@ Architechture Diagram:
               ▼
      🌐 Accessible via NodePort
 
-<img width="588" he<img width="757" height="489" alt="Screenshot 2025-11-29 at 00 35 29" src="https://github.com/user-attachments/assets/0d2d0a1e-61c3-445b-a5ea-2fa71e1af592" />
-ight="655" alt="Screenshot 2025-11<img width="649" height="486" alt="Screenshot 2025-11-29 at 00 38 49" src="https://github.com/user-attachments/assets/1ec43b09-d9cd-4ed1-b000-83a9d4b022a7" />
--29 at 00 36 32" src="https://github.com/user-attachments/assets/c1c4774e-ff75-4003-9397-cd86e2dc17a8" />
 
-     <img width="1117" height="727" alt="Screenshot 2025-11-29 at 00 40 30" src="https://github.com/user-attachments/assets/38dca53c-9d19-44d7-88d2-5def9c6559ff" />
+<img width="1117" height="727" alt="Screenshot 2025-11-29 at 00 40 30" src="https://github.com/user-attachments/assets/70fbe375-d218-4c5c-b448-4402ac8af410" />
+
+<img width="757" height="489" alt="Screenshot 2025-11-29 at 00 35 29" src="https://github.com/user-attachments/assets/210757b4-6e5a-4031-ba26-afb1ee55f287" />
+
+<img width="588" height="655" alt="Screenshot 2025-11-29 at 00 36 32" src="https://github.com/user-attachments/assets/aa5fb407-029a-4f13-b1fb-ac622edcac56" />
+
+
+
