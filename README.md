@@ -92,3 +92,8 @@ Architechture Diagram:
 
 
 
+Conclusion:
+This project showcases end-to-end DevOps automation using GitOps methodology — a complete working example of how modern cloud-native teams achieve continuous delivery with Kubernetes and Argo CD.
+
+Author: Ravali Billakanti
+
